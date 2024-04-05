@@ -1,16 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=KIMMINJAE981002&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
-<div align="center">
-  <img src="https://github.com/kimminjae981002/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-</div>
-
 ####  :wave: Welcome my github profile !
 
   
  <br/>
  <br/>
   
-####  :clipboard: Once I've Used 
+####  :clipboard: Tech Stack
   
  <br/>
 
@@ -30,8 +26,13 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+</div>
+
+ <div align="center">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 </div>
+
 
 
  
