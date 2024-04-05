@@ -28,8 +28,12 @@
   <br/>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimminjae981002&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
+
+  <br/>
 
 ####  :clipboard: My Blog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=minjae98)](https://velog.io/@minjae98) 
+
+  
+</div>
+
