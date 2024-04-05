@@ -31,4 +31,4 @@
   
 </div>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=minjae98)](https://velog.io/@eungyeole) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=minjae98)](https://velog.io/@minjae98) 
