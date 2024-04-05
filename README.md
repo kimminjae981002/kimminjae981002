@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=KIMMINJAE981002&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
-####  :wave: Welcome my github profile !
+<div align="center">:wave: Welcome my github profile !</div> 
 
   
  <br/>
@@ -55,7 +55,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimminjae981002&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   <br/>
- <h3 align="center  :clipboard: My Blog</h3>
+ <h3 align="center">  :clipboard: My Blog</h3>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=minjae98)](https://velog.io/@minjae98) 
 
