@@ -1,4 +1,3 @@
-
-![header](https://capsule-render.vercel.app/api?type=Rect&text=개발 경험치 쌓아야죠)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=KIMMINJAE981002&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 
