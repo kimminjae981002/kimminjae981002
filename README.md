@@ -48,7 +48,7 @@
    <br/>
    <br/>
 
- <h3 align="center"> #### :pencil2: Study log </h3>
+ <h3 align="center">  :pencil2: Study log </h3>
 
  
   <br/>
@@ -56,11 +56,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimminjae981002&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
    </div>
   <br/>
- <h3 align="center">####  :clipboard: My Blog</h3>
-
+ <h3 align="center  :clipboard: My Blog</h3>
+ <div align="center">
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=minjae98)](https://velog.io/@minjae98) 
-
- <h3 align="center"> ####  📧: My Email </h3>
+ </div>
+ <h3 align="center">   📧: My Email </h3>
  <div align="center">
  <a href="mailto:cmg981548@gmail.com">
     <img
