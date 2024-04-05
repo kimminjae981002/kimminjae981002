@@ -6,7 +6,7 @@
  <br/>
  <br/>
   
-<h3 align="center">✨ Tech Stack ✨</h3>
+<h3 align="center"> Tech Stack </h3>
   
  <br/>
 
@@ -30,7 +30,7 @@
 
 
 
-<h3 align="center">🛠 Tools 🛠</h3>
+<h3 align="center"> Tools </h3>
 
  <div align="center">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
@@ -41,7 +41,6 @@
  <div align="center">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
-   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
 
@@ -59,6 +58,13 @@
 
 ####  :clipboard: My Blog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=minjae98)](https://velog.io/@minjae98) 
+
+
+####  📧: My Email
+ <a href="mailto:cmg981548@gmail.com">
+    <img
+      src="https://img.shields.io/badge/cmg981548@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
 
   
 </div>
