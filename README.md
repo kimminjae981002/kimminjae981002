@@ -52,21 +52,21 @@
 
  
   <br/>
-  
+   <div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimminjae981002&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+   </div>
   <br/>
  <h3 align="center">####  :clipboard: My Blog</h3>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=minjae98)](https://velog.io/@minjae98) 
 
  <h3 align="center"> ####  📧: My Email </h3>
-
+ <div align="center">
  <a href="mailto:cmg981548@gmail.com">
     <img
       src="https://img.shields.io/badge/cmg981548@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
-
+ </div>
   
 </div>
 
